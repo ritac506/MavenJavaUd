@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-23T13:59:15 CDT" name="Suite" finished-at="2020-04-23T13:59:15 CDT" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2020-04-23T13:59:15 CDT" name="Test" finished-at="2020-04-23T13:59:15 CDT" duration-ms="62">
+      <class name="MavenProject.AppiumTest">
+        <test-method signature="testAndroid()[pri:0, instance:MavenProject.AppiumTest@17c386de]" started-at="2020-04-23T13:59:15 CDT" name="testAndroid" finished-at="2020-04-23T13:59:15 CDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAndroid -->
+        <test-method signature="testIOS()[pri:0, instance:MavenProject.AppiumTest@17c386de]" started-at="2020-04-23T13:59:15 CDT" name="testIOS" finished-at="2020-04-23T13:59:15 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIOS -->
+      </class> <!-- MavenProject.AppiumTest -->
+      <class name="MavenProject.RESTAPITest">
+        <test-method signature="twitter()[pri:0, instance:MavenProject.RESTAPITest@5af97850]" started-at="2020-04-23T13:59:15 CDT" name="twitter" finished-at="2020-04-23T13:59:15 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+        <test-method signature="restTest()[pri:0, instance:MavenProject.RESTAPITest@5af97850]" started-at="2020-04-23T13:59:15 CDT" name="restTest" finished-at="2020-04-23T13:59:15 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restTest -->
+      </class> <!-- MavenProject.RESTAPITest -->
+      <class name="MavenProject.SeleniumTest">
+        <test-method signature="automateBrowser()[pri:0, instance:MavenProject.SeleniumTest@5ef60048]" started-at="2020-04-23T13:59:15 CDT" name="automateBrowser" finished-at="2020-04-23T13:59:15 CDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automateBrowser -->
+        <test-method signature="findElement()[pri:0, instance:MavenProject.SeleniumTest@5ef60048]" started-at="2020-04-23T13:59:15 CDT" name="findElement" finished-at="2020-04-23T13:59:15 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findElement -->
+      </class> <!-- MavenProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
